@@ -1,6 +1,10 @@
 [
   {
-    "name": "Original Plugin",
+    "name": "Sample Plugin (Updated)",
     "entry": "./plugins/sample-plugin/plugin.js"
+  },
+  {
+    "name": "Jeyson's Plugin",
+    "entry": "./plugins/Jeyson-plugin/plugin.js"
   }
 ]
